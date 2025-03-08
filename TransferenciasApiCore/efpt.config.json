@@ -1,0 +1,90 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "ESCORIALContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "TransferenciasApiCore",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "public.deposito",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.iteminventario",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.producto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.unidadmedida",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoSector",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoTxEstado",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoTxEtiqueta",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoTxItemSolicitudTransferencia",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoTxItemTransferencia",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoTxSolicitudTransferencia",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoTxTransferencia",
+         "ObjectType": 0
+      },
+      {
+         "Name": "web.EscoUsuarioApp",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

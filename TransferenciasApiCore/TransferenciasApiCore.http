@@ -1,0 +1,14 @@
+@TransferenciasApiCore_HostAddress = http://localhost:5003
+
+GET {{TransferenciasApiCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{TransferenciasApiCore_HostAddress}}/api/deposito
+
+###
+
+GET {{TransferenciasApiCore_HostAddress}}/api/deposito/{id}
+
+###
